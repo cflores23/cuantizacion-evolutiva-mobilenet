@@ -8,7 +8,7 @@ los valores de pesos y activaciones logró **entre un 17% y un 33% menos de oper
 con la misma precisión, y la búsqueda aleatoria con el mismo esfuerzo **no mejoró nada**. Todo el trabajo es una simulación:
 no se midió velocidad real en un dispositivo ni se construyó un circuito.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cflores23/cuantizacion-evolutiva-mobilenet/blob/notebooks/cuantizacion_evolutiva_mobilenet.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cflores23/cuantizacion-evolutiva-mobilenet/blob/main/notebooks/cuantizacion_evolutiva_mobilnet.ipynb)
 
 ---
 
