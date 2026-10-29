@@ -1,0 +1,93 @@
+metodo,config,GBOPs,memoria_MB,precision_final_pct
+Uniforme (Percentil 99.9),W8A8,0.352,1.55,72.6
+Uniforme (Percentil 99.9),W8A6,0.264,1.55,28.4
+Uniforme (Percentil 99.9),W6A8,0.264,1.17,70.62
+Uniforme (Percentil 99.9),W6A6,0.198,1.17,25.41
+Uniforme (Percentil 99.9),W4A8,0.176,0.8,38.64
+Uniforme (Percentil 99.9),W4A6,0.132,0.8,21.05
+Uniforme (calibración MSE),W8A8,0.352,1.55,15.5
+Uniforme (calibración MSE),W8A6,0.264,1.55,14.42
+Uniforme (calibración MSE),W6A8,0.264,1.17,13.78
+Uniforme (calibración MSE),W6A6,0.198,1.17,14.44
+Uniforme (calibración MSE),W4A8,0.176,0.8,15.72
+Uniforme (calibración MSE),W4A6,0.132,0.8,14.21
+Recetas del paso 4,Pesos 8 bits uniforme,0.352,1.55,76.14
+Recetas del paso 4,Frontera paso 3 (~1.04 MB),0.302,1.04,75.6
+Recetas del paso 4,Frontera paso 3 (~0.77 MB),0.238,0.77,68.44
+Sensibilidad + voraz (Percentil 99.9),voraz,0.321,1.22,72.04
+Sensibilidad + voraz (Percentil 99.9),voraz,0.066,0.61,10.64
+Sensibilidad + voraz (Percentil 99.9),voraz,0.066,0.61,10.2
+Sensibilidad + voraz (Percentil 99.9),voraz,0.282,1.07,70.46
+Sensibilidad + voraz (Percentil 99.9),voraz,0.252,0.93,69.94
+Sensibilidad + voraz (Percentil 99.9),voraz,0.157,0.72,62.78
+Sensibilidad + voraz (Percentil 99.9),voraz,0.291,1.14,71.17
+Sensibilidad + voraz (Percentil 99.9),voraz,0.303,1.17,71.17
+Sensibilidad + voraz (Percentil 99.9),voraz,0.239,0.87,68.79
+Sensibilidad + voraz (Percentil 99.9),voraz,0.136,0.7,60.17
+Sensibilidad + voraz (Percentil 99.9),voraz,0.181,0.74,64.31
+Sensibilidad + voraz (Percentil 99.9),voraz,0.243,0.92,69.21
+Sensibilidad + voraz (Percentil 99.9),voraz,0.139,0.7,61.0
+Sensibilidad + voraz (Percentil 99.9),voraz,0.098,0.63,37.62
+Sensibilidad + voraz (Percentil 99.9),voraz,0.299,1.16,71.2
+Sensibilidad + voraz (Percentil 99.9),voraz,0.222,0.82,67.88
+Sensibilidad + voraz (Percentil 99.9),voraz,0.092,0.63,35.25
+Sensibilidad + voraz (Percentil 99.9),voraz,0.203,0.79,66.84
+Sensibilidad + voraz (Percentil 99.9),voraz,0.083,0.62,31.25
+Sensibilidad + voraz (Percentil 99.9),voraz,0.12,0.68,53.5
+Sensibilidad + voraz (Percentil 99.9),voraz,0.213,0.81,67.17
+Sensibilidad + voraz (Percentil 99.9),voraz,0.136,0.69,57.31
+Sensibilidad + voraz (Percentil 99.9),voraz,0.073,0.61,15.9
+Sensibilidad + voraz (Percentil 99.9),voraz,0.192,0.76,64.86
+Sensibilidad + voraz (Percentil 99.9),voraz,0.11,0.65,47.54
+Sensibilidad + voraz (Percentil 99.9),voraz,0.231,0.85,68.23
+Sensibilidad + voraz (Percentil 99.9),voraz,0.074,0.61,19.61
+Sensibilidad + voraz (Percentil 99.9),voraz,0.183,0.74,64.71
+Sensibilidad + voraz (Percentil 99.9),voraz,0.229,0.84,67.85
+Sensibilidad + voraz (Percentil 99.9),voraz,0.079,0.62,27.31
+Sensibilidad + voraz (Percentil 99.9),voraz,0.111,0.66,48.9
+Sensibilidad + voraz (Percentil 99.9),voraz,0.116,0.67,49.98
+Sensibilidad + voraz (Percentil 99.9),voraz,0.076,0.61,21.51
+Sensibilidad + voraz (Percentil 99.9),voraz,0.182,0.74,64.55
+Sensibilidad + voraz (Percentil 99.9),voraz,0.127,0.69,56.0
+Sensibilidad + voraz (Percentil 99.9),voraz,0.244,0.93,69.1
+Sensibilidad + voraz (Percentil 99.9),voraz,0.085,0.62,32.25
+Sensibilidad + voraz (Percentil 99.9),voraz,0.101,0.63,40.51
+Sensibilidad + voraz (Percentil 99.9),voraz,0.078,0.62,28.69
+Sensibilidad + voraz (Percentil 99.9),voraz,0.2,0.79,66.81
+Sensibilidad + voraz (Percentil 99.9),voraz,0.113,0.67,48.48
+Sensibilidad + voraz (Percentil 99.9),voraz,0.11,0.65,47.23
+Sensibilidad + voraz (Percentil 99.9),voraz,0.127,0.69,53.91
+Sensibilidad + voraz (Percentil 99.9),voraz,0.214,0.81,67.31
+Sensibilidad + voraz (Percentil 99.9),voraz,0.077,0.61,24.36
+Sensibilidad + voraz (Percentil 99.9),voraz,0.078,0.62,26.99
+Sensibilidad + voraz (Percentil 99.9),voraz,0.106,0.65,44.07
+Sensibilidad + voraz (Percentil 99.9),voraz,0.103,0.63,40.91
+Sensibilidad + voraz (Percentil 99.9),voraz,0.131,0.69,56.69
+Sensibilidad + voraz (Percentil 99.9),voraz,0.195,0.78,66.3
+Sensibilidad + voraz (Percentil 99.9),voraz,0.09,0.63,34.34
+Sensibilidad + voraz (Percentil 99.9),voraz,0.105,0.64,43.25
+Sensibilidad + voraz (Percentil 99.9),voraz,0.087,0.62,32.73
+Sensibilidad + voraz (Percentil 99.9),voraz,0.075,0.61,19.96
+Sensibilidad + voraz (Percentil 99.9),voraz,0.069,0.61,12.28
+Sensibilidad + voraz (Percentil 99.9),voraz,0.125,0.69,53.95
+Sensibilidad + voraz (Percentil 99.9),voraz,0.134,0.69,57.29
+Sensibilidad + voraz (Percentil 99.9),voraz,0.195,0.77,65.58
+Sensibilidad + voraz (Percentil 99.9),voraz,0.104,0.64,41.08
+Sensibilidad + voraz (Percentil 99.9),voraz,0.072,0.61,15.5
+Sensibilidad + voraz (MSE),voraz,0.11,0.64,23.29
+Sensibilidad + voraz (MSE),voraz,0.11,0.64,22.69
+Sensibilidad + voraz (MSE),voraz,0.102,0.64,20.81
+Sensibilidad + voraz (MSE),voraz,0.1,0.63,19.0
+Sensibilidad + voraz (MSE),voraz,0.097,0.63,18.24
+Sensibilidad + voraz (MSE),voraz,0.097,0.63,18.38
+Sensibilidad + voraz (MSE),voraz,0.079,0.61,16.16
+Sensibilidad + voraz (MSE),voraz,0.079,0.61,16.19
+Sensibilidad + voraz (MSE),voraz,0.079,0.61,16.25
+Sensibilidad + voraz (MSE),voraz,0.078,0.61,15.56
+Sensibilidad + voraz (MSE),voraz,0.076,0.61,14.1
+Sensibilidad + voraz (MSE),voraz,0.074,0.61,12.89
+Sensibilidad + voraz (MSE),voraz,0.074,0.61,13.49
+Sensibilidad + voraz (MSE),voraz,0.069,0.61,11.68
+Sensibilidad + voraz (MSE),voraz,0.066,0.61,12.17
+Sensibilidad + voraz (MSE),voraz,0.066,0.61,10.9
+Sensibilidad + voraz (MSE),voraz,0.066,0.61,10.65

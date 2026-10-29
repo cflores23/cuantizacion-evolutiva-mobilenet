@@ -1,0 +1,11 @@
+{
+  "modelo": "MobileNetV3-Small (preentrenado, ajuste fino)",
+  "entrada": "64x64",
+  "epocas": 3,
+  "imagenes_entrenamiento": 20000,
+  "precision_pct": 78.23,
+  "parametros": 1528106,
+  "tamano_MB": 6.25,
+  "latencia_ms_media_1hilo_CPU": 5.98,
+  "latencia_ms_p95_1hilo_CPU": 7.34
+}

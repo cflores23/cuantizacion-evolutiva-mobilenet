@@ -1,0 +1,4 @@
+version,precision_final_pct,tamano_MB
+FP32,77.94,6.09
+"4 bits, sin recorte (alpha=1)",42.26,0.8
+"4 bits, recortes optimizados (DE)",51.55,0.8

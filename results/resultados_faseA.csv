@@ -1,0 +1,9 @@
+experimento,precision_pct,tamano_MB_pesos
+FP32 (BatchNorm plegada),77.94,6.09
+Solo pesos a 8 bits (por canal),78.08,1.55
+Solo pesos a 6 bits (por canal),74.89,1.17
+Solo pesos a 4 bits (por canal),42.26,0.8
+Solo activaciones a 8 bits (MinMax),14.35,6.09
+Solo activaciones a 8 bits (Percentil),53.84,6.09
+Pesos 8 + activaciones 8 (MinMax),14.64,1.55
+Pesos 8 + activaciones 8 (Percentil),54.57,1.55

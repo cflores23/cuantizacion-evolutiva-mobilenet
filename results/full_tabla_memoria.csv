@@ -1,0 +1,8 @@
+metodo,precisión ≥ 75%,precisión ≥ 72%,precisión ≥ 70%,precisión ≥ 65%
+Evolutivo (NSGA-II),no alcanza,0.876 ± 0.060 (3/3),0.773 ± 0.014 (3/3),0.728 ± 0.025 (3/3)
+Búsqueda aleatoria,no alcanza,1.552 ± 0.000 (3/3),1.174 ± 0.000 (3/3),1.174 ± 0.000 (3/3)
+Uniforme (Percentil 99.9),no alcanza,1.552,1.174,1.174
+Uniforme (calibración MSE),no alcanza,no alcanza,no alcanza,no alcanza
+Recetas del paso 4,1.038,1.038,1.038,0.773
+Sensibilidad + voraz (Percentil 99.9),no alcanza,1.222,1.068,0.768
+Sensibilidad + voraz (MSE),no alcanza,no alcanza,no alcanza,no alcanza

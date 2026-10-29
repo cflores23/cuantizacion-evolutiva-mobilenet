@@ -1,0 +1,5 @@
+variante,precisión ≥ 75%,precisión ≥ 72%,precisión ≥ 70%,precisión ≥ 65%
+Completa (bits + recortes),no alcanza,1.531,1.026,1.026
+Solo bits (recortes fijos),no alcanza,1.550,1.026,1.011
+Solo recortes (bits iguales),no alcanza,1.174,1.174,1.174
+Uniforme (Percentil 99.9),no alcanza,1.552,1.174,1.174

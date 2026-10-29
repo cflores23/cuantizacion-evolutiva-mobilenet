@@ -1,0 +1,30 @@
+[
+  {
+    "version": "Paso 1: PyTorch FP32 (referencia)",
+    "precision_pct": 78.23,
+    "tamano_MB": 6.25,
+    "latencia_ms_media": 5.98,
+    "latencia_ms_p95": 7.34
+  },
+  {
+    "version": "ONNX FP32",
+    "precision_pct": 78.23,
+    "tamano_MB": 6.12,
+    "latencia_ms_media": 0.69,
+    "latencia_ms_p95": 0.79
+  },
+  {
+    "version": "ONNX dinámica INT8",
+    "precision_pct": 12.62,
+    "tamano_MB": 1.7,
+    "latencia_ms_media": 5.65,
+    "latencia_ms_p95": 6.52
+  },
+  {
+    "version": "ONNX estática INT8 (QDQ)",
+    "precision_pct": 15.48,
+    "tamano_MB": 1.88,
+    "latencia_ms_media": 0.75,
+    "latencia_ms_p95": 0.88
+  }
+]

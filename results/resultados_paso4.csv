@@ -1,0 +1,4 @@
+configuracion,tamano_MB_pesos,pesos_solo_pct,A8_MinMax_pct,A8_P99.99_pct,A8_P99.9_pct,A8_evolutivo_busqueda_pct,A8_evolutivo_final_pct
+Pesos 8 bits uniforme,1.55,78.08,14.64,48.1,72.6,79.2,76.36
+Frontera paso 3 (~1.04 MB),1.04,77.54,17.46,47.09,71.1,78.6,75.51
+Frontera paso 3 (~0.77 MB),0.77,70.75,16.88,43.46,65.04,72.13,68.85
