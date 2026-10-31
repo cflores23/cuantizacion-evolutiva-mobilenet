@@ -101,7 +101,7 @@ instrucciones nativas, como ocurre en este trabajo.
   Es un proxy del área y la energía de un multiplicador en un circuito propio. **No es velocidad medida.**
 - **Memoria de pesos** = pesos a sus bits por capa + sesgos a 32 bits. No incluye las escalas por canal ni el empaquetado.
 
-## Límites (léelos antes de citar los resultados)
+## Límites
 
 - **Es simulación.** Los pesos se redondean y vuelven a decimales; no hay un motor de inferencia ni un circuito que ejecute enteros.
 - **Solo se cuantizan las entradas de convoluciones y capas lineales y sus pesos.** Las sumas residuales, el bloque
